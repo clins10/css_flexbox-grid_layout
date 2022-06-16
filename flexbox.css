@@ -177,6 +177,12 @@ button {
     }
 }
 
+@media only screen and (max-width: 1346px) {
+    main {
+        width: 58%;
+    }
+   
+}
 @media screen and (max-width: 560px) {
     main {
         width: 50%;
